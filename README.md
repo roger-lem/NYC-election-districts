@@ -1,4 +1,4 @@
-# 2021-NYC-election-data
+# 2021 NYC election data
 
 Hello! This is a table of all the NYC Election Districts (read: precincts)! I synthesized it based on multiple data requests from the [NYC Board of Elections](https://vote.nyc/). 
 
@@ -24,4 +24,4 @@ There is one Assembly District that straddles boroughs, AD 64, which is mostly o
 Of the 5901 EDs in NYC, there were 236 tagged as "Unused EDs". I've used the "tagged as unused" column to indicate which these were. For example, 064/64 and 070/64 in Staten Island were marked as 'unused'. See the image below for an example of how they were included in the [official map](https://vote.nyc/sites/default/files/pdf/maps/ad/ad64.pdf). ![image](https://user-images.githubusercontent.com/6442309/116641916-8e851280-a922-11eb-9363-850f9bef5390.png)
 
 
-### Let me know if you have suggestions or found it useful! 
+### Let me know if you have suggestions or found it useful! [rogerlem.com](rogerlem.com)
