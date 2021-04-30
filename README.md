@@ -14,8 +14,8 @@ There are several City Council districts that straddle boroughs:
 | CC District  | Borough 1 | Borough 2 | notes |
 | ------------- | ------------- | ------------- | ------------- |
 | 8  | Bronx  | Manhattan  | Pretty even divide between East Harlem and South Bronx  |
-| 34  | Brooklyn  | Queens  | none  |
 | 22  | Bronx  | Queens  | Includes Rikers Island (Bronx), and is otherwise fully in Queens  |
+| 34  | Brooklyn  | Queens  | none  |
 
 There is one Assembly District that straddles boroughs, AD 64, which is mostly on Staten Island but also includes the northern part of Bay Ridge, Brooklyn.
 
