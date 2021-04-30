@@ -1,6 +1,12 @@
 # 2021-NYC-election-data
 
-Hello! This is a table of NYC Election Districts I cleaned and edited based on data requested from the [NYC Board of Elections](https://vote.nyc/). According the BoE, it's current for the June 2021 primary.
+Hello! This is a table of all the NYC Election Districts (read: precincts)! I cleaned and edited it based on multiple data requests from the [NYC Board of Elections](https://vote.nyc/). 
+
+According the BoE, it's current for the June 2021 primary.
+
+## Columns
+| Election District  | County | Borough | Assembly District | City Council District |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
 
 ## Notes on territories that overlap
 
