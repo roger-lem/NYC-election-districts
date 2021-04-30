@@ -7,6 +7,7 @@ According the BoE's Candidate Records Unit, it's current for the June 2021 prima
 ## Columns
 | Election District  | County | Borough | Assembly District | City Council District | Tagged as unused |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| string, official format | string, sentence case | string, sentence case | string, number | string, number | boolean, TRUE if tagged |
 
 ## Notes on territories that overlap
 
