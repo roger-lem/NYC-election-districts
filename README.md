@@ -11,7 +11,9 @@ According the BoE's Candidate Records Unit, it's current for the June 2021 prima
 
 ## "Unused" EDs
 
-Of the 5901 EDs in NYC, there were 236 tagged as 'unused' EDs by the election department. I've used the "tagged as unused" column to indicate which these were. For example, 064/64 and 070/64 in Staten Island were marked as 'unused'. See them at the intersections of other boundaries in the image below for an example of how they were included in the [official map](https://vote.nyc/sites/default/files/pdf/maps/ad/ad64.pdf). ![image](https://user-images.githubusercontent.com/6442309/116641916-8e851280-a922-11eb-9363-850f9bef5390.png)
+Of the 5901 EDs in NYC, there were 236 tagged as 'unused' EDs by the election department. I've used the "tagged as unused" column to indicate which these were. 
+
+For example, 064/64 and 070/64 in Staten Island were marked as 'unused'. See them at the intersections of other boundaries in this excerpt of an [official election district map](https://vote.nyc/sites/default/files/pdf/maps/ad/ad64.pdf). ![image](https://user-images.githubusercontent.com/6442309/116641916-8e851280-a922-11eb-9363-850f9bef5390.png)
 
 ## Notes on overlapping boundaries
 
