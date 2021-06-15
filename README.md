@@ -1,10 +1,9 @@
 # 2021 NYC election data
 
-Hello! This repository hosts a table of all the NYC Election Districts (read: precincts) and the electoral regions they fall under (EDtable.csv). I compiled and matched it based on tables obtained through multiple data requests from the [NYC Board of Elections](https://vote.nyc/). 
+Hello! This repository hosts a table of all the NYC Election Districts (read: precincts) and the electoral regions they fall under (EDtable.csv). I compiled and joined it based on tables obtained through multiple data requests from the [NYC Board of Elections](https://vote.nyc/). 
 
-According the BoE's Candidate Records Unit, it's current for 2021.
 ## Source
-My goal was to create a list of every ED in the city. I made my email requests to boe.nyc and received two excel documents and one email containing the tables I needed. See "Raw docs" folder for the originals. Note that all files are marked "TENTATIVE SUBJECT TO CHANGE".
+I made email requests to the NYC BoE's Candidate Records Unit and received two excel documents and one text table containing the data I needed. See "Raw docs" folder for the originals. Note that all files are marked "TENTATIVE SUBJECT TO CHANGE". According the BoE, the source data is current for 2021.
 
 ## Table format
 | Election District  | County | Borough | Assembly District | City Council District | Tagged as unused |
