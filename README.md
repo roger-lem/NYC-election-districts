@@ -1,8 +1,8 @@
 # 2021 NYC election data
 
-Hello! This is a table of all the NYC Election Districts (read: precincts) and the electoral regions they fall under. I compiled and matched it based on multiple data requests from the [NYC Board of Elections](https://vote.nyc/). You can see the source files in the "Raw docs" folder.
+Hello! This is a table of all the NYC Election Districts (read: precincts) and the electoral regions they fall under. I compiled and matched it based on tables obtained through multiple data requests from the [NYC Board of Elections](https://vote.nyc/). 
 
-According the BoE's Candidate Records Unit, it's current for the June 2021 primary.
+According the BoE's Candidate Records Unit, it's current for 2021.
 ## Source
 My goal was to create a list of every ED in the city. I made my email requests to boe.nyc and received two excel documents and one email containing the tables I needed. See "Raw docs" folder for the originals. Note that all files are marked "TENTATIVE SUBJECT TO CHANGE".
 
