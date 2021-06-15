@@ -22,7 +22,7 @@ For example, 064/64 and 070/64 in Staten Island were marked as 'unused'. See the
 ### City Council districts that straddle boroughs
 | CC District  | Borough 1 | Borough 2 | notes |
 | ------------- | ------------- | ------------- | ------------- |
-| 8  | Bronx  | Manhattan  | Pretty even divide between East Harlem and South Bronx  |
+| 8  | Bronx  | Manhattan  | A spatially even divide between East Harlem and South Bronx  |
 | 22  | Bronx  | Queens  | Includes Rikers Island (Bronx), and is otherwise fully in Queens  |
 | 34  | Brooklyn  | Queens  | none  |
 
