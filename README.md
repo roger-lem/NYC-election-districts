@@ -1,6 +1,6 @@
 # 2021 NYC election data
 
-Hello! This is a table of all the NYC Election Districts (read: precincts). It was synthesized based on multiple data requests from the [NYC Board of Elections](https://vote.nyc/). 
+Hello! This is a table of all the NYC Election Districts (read: precincts) and the electoral regions they fall under. It was synthesized based on multiple data requests from the [NYC Board of Elections](https://vote.nyc/). 
 
 According the BoE's Candidate Records Unit, it's current for the June 2021 primary.
 ## Source
